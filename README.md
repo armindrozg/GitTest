@@ -1,3 +1,1 @@
 # GitTest
-
-# dodano besedilo
