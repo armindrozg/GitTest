@@ -3,7 +3,7 @@
 import numpy as np
 import time
 
-n = 100
+n = 30
 
 tic = time.clock()
 for i in range(n):
